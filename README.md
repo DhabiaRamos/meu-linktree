@@ -22,12 +22,12 @@
 <h2> :camera: Imagens do projeto: </h2><br>
 
 <p> :eyes: Visão pelo Computador :eyes:</p>
-<img src="" />
+<img src="https://github.com/DhabiaRamos/meu-linktree/blob/master/project%20images/projeto-linktree-visualiza%C3%A7%C3%A3o-pc.png?raw=true" />
 
 <p> :eyes: Visão pelo Celular :eyes:</p>
-<img src="" /><br>
+<img src="https://github.com/DhabiaRamos/meu-linktree/blob/master/project%20images/projeto-linktree-visualiza%C3%A7%C3%A3o-celular.png?raw=true" /><br>
 
 
-<h2> :link: Deploy: </h2>
+<h2> :link: Deploy: </h2><br>
 <p> :arrow_down: Veja o projeto no ar :arrow_down:</p>
 -> <a href="https://meulinktree.netlify.app/">Meu Linktree</a>
